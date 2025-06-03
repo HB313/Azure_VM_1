@@ -1,0 +1,11 @@
+subscription_id       = "a0246636-592d-44dc-b34b-d1d73dc69776"
+location              = "West Europe"
+resource_group_name   = "rg-demo"
+vnet_name             = "vnet-demo"
+vnet_address_space    = ["10.0.0.0/16"]
+subnet_name           = "subnet-demo"
+subnet_prefix         = ["10.0.1.0/24"]
+nic_name              = "nic-demo"
+vm_name               = "vm-demo-verificacionautomation"
+admin_username        = "azureuser"
+admin_password        = "TFdemoPass123!"
