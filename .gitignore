@@ -1,0 +1,13 @@
+# Fichiers Terraform à ignorer
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+terraform.tfvars
+*.tfplan
+
+# Fichiers système
+.DS_Store
+
+# Pour éviter d'ajouter des secrets, au cas où
+*.secret.tfvars
