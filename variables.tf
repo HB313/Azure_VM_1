@@ -42,7 +42,7 @@ variable "nic_name" {
 
 variable "vm_name" {
   type    = string
-  default = "vm-demo"
+  default = "vm-demo-verifitacionautomation"
 }
 
 variable "admin_username" {
